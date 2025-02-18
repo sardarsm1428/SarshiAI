@@ -3,7 +3,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const userInput = document.getElementById('user-input');
     const sendBtn = document.getElementById('send-btn');
     // Replace this with your actual API key
-    const API_KEY = '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';
+    const API_KEY = '';
 
     // Function to add a message to the chat box
     function addMessage(message, sender) {
